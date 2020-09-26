@@ -1,0 +1,4 @@
+data_path:
+  train_data: "D:\Academia\Learning\GreyAtom\ml_deployment_oct2017\ml_deployment_oct2017\gatut1909\data\train"
+  test_data: "D:\Academia\Learning\GreyAtom\ml_deployment_oct2017\ml_deployment_oct2017\gatut1909\data\test"
+sentence_num: 3
